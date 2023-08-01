@@ -1,15 +1,9 @@
 package com.swiggy.teststeps;
-
-
-
 import org.openqa.selenium.chrome.ChromeDriver;
-
 import com.swiggy.pages.Food;
 import com.swiggy.pages.LandingPage;
 import com.swiggy.pages.Restaurant;
 import com.swiggy.pages.SignIn;
-
-
 
 public class Driver  extends Tools{
 	
